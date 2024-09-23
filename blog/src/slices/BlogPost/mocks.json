@@ -1,0 +1,102 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "The tuba, with its deep, resonant tones, is a cornerstone of orchestral and brass band music. But have you ever wondered where this majestic instrument came from?",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "The tuba's story begins in the early 19th century, a time of rapid musical innovation. Prior to its invention, lower brass instruments were limited in their range and power. Composers like Wagner and Berlioz, eager for richer bass sounds, inspired instrument makers to experiment.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "In 1835, Wilhelm Wieprecht and Johann Gottfried Moritz, both German musicians and inventors, patented the first tuba. Their design featured a wide conical bore, multiple valves, and a large bell, all contributing to its powerful low register.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "The tuba quickly gained popularity, replacing the ophicleide and serpent in orchestras. Its versatility made it suitable for both solemn and joyful music, adding depth and grandeur to any ensemble.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Today, the tuba remains a vital part of the musical landscape. From its humble beginnings to its modern prominence, the tuba's invention represents a significant step in the evolution of brass instruments, allowing composers and musicians to explore new sonic depths.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1650894752164-ec6bfdafe4de?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8dHViYXxlbnwwfHx8fDE3MjcxMDQ0Mjd8MA&ixlib=rb-4.0.3&q=85",
+				"alt": "a person playing a tuba",
+				"origin": {
+					"id": "jLhpu4-UL9I",
+					"url": "https://images.unsplash.com/photo-1650894752164-ec6bfdafe4de?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMnx8dHViYXxlbnwwfHx8fDE3MjcxMDQ0Mjd8MA&ixlib=rb-4.0.3&q=85",
+					"width": 3648,
+					"height": 5472
+				},
+				"width": 3648,
+				"height": 5472,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			},
+			"created_date": {
+				"__TYPE__": "FieldContent",
+				"type": "Date",
+				"value": "2013-05-22"
+			},
+			"author": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "DocumentLink",
+					"id": "mock_document_id"
+				}
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Invention of the Tuba",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
